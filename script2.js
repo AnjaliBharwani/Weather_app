@@ -1,5 +1,6 @@
 
-const apiKey = "57c7ff33987e3ba96003d15baf4177c2";
+// const apiKey = "57c7ff33987e3ba96003d15baf4177c2";
+const apiKey = "d52affad1e19e7b24d26b8b1e460d9fe";
 const baseUrl = "https://api.openweathermap.org/data/2.5";
 
 // extracting keys to append the values in html
